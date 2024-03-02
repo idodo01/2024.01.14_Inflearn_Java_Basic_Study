@@ -1,6 +1,6 @@
 package oop1;
 
-public class ValueObjectMain { // 1. 객제치향 프로그래밍
+public class ValueObjectMain { // 2. 객제치향 프로그래밍
 
 
     public static void main(String[] args) {
